@@ -1,9 +1,13 @@
-# 💫 Hi 👋, I'm Hitesh Krishan Sharma
-**A Full stack Developer**
+## 👋 Hi, I'm Hitesh Krishan Sharma
 
-Email Me 👉 ✉️ **hiteshkrishanshrma@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+🎓 BCA Graduate from SJES College of Management Studies  
+💼 Working as a Computer Lab In-Charge  
+💻 Passionate about Web Development, Automation, and Tech Tools  
+🔧 Learning React.js, Node.js, and Full Stack Dev  
+🧠 I believe in lifelong learning and building smart solutions  
+📍 Based in Bangalore, India  
+🤝 Open to collaborations, freelance work, and tech discussions
 
-🔭 I’m currently working on SJES COLLEGE OF MANAGEMENT OF STUDIES
 
 
 ## 🌐 Socials:
