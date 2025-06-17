@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Hitesh Krishan Sharma
+**A Full stack Developer**
+
+Email Me 👉 ✉️ **hiteshkrishanshrma@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on SJES COLLEGE OF MANAGEMENT OF STUDIES
 
 
 ## 🌐 Socials:
