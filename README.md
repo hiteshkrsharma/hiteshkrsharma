@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **hiteshkrishanshrma@gmail.com** For Collaboration/Project 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Hitesh's+Repo!;BCA+Final+Year+Student;Code.+Eat.+Repeat.&center=true&width=500&height=50" />
 </div>
 
 # 📊 GitHub Stats:
