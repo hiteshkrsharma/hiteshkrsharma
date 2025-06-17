@@ -14,8 +14,13 @@ Email Me 👉 ✉️ **hiteshkrishanshrma@gmail.com** For Collaboration/Project 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-stats/blob/master/images/github-contribution-grid-snake.svg" alt="Tetris on GitHub Contributions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=700&height=45&lines=👨‍💻+while(true)+%7B+code();+%7D;💻+console.log('Hello+World!');🚀+BCA+Final+Year+Student;🔥+Hitesh+Krishan+Sharma+Coding+Life;🧠+Eat+Sleep+Code+Repeat" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0affef&height=100&section=footer&text=Hitesh's%20Dev%20World&fontSize=24&fontAlign=40&fontColor=ffffff" />
 </div>
+
+
+
 
 
 
