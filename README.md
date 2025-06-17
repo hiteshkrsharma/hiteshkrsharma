@@ -28,6 +28,30 @@
   </tr>
 </table>
 
+### 🎮 Play a Super Mini Game!
+
+<!-- ✅ Heading with Game Emoji -->
+<h2 align="center" style="color:#00ffee; font-weight:bold;">🎮 Play My Snake Game!</h2>
+
+<!-- ✅ Game Animation Heading (Static Backup for SVG) -->
+<p align="center">
+  <strong style="font-size: 20px; color: #00ffee;">
+    🐍 Try the Snake Game! 🔥 Challenge Your Reflexes! ✨
+  </strong>
+</p>
+
+<!-- ✅ Game Play Button -->
+<p align="center">
+  <a href="https://hiteshkrsharma.github.io/snake-game" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK_TO_PLAY-SNAKE_GAME-00ffaa?style=for-the-badge&logo=playstation&logoColor=white" alt="Play Snake Game Badge" />
+  </a>
+</p>
+
+<!-- ✅ Preview GIF (working fallback GIF used instead) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="Snake Game Preview" />
+</p>
+
 
 
 ## 🌐 Socials:
