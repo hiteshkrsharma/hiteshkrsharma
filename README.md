@@ -188,15 +188,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hiteshkrsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
- ## 💰 You Can Help Me by Donating
+## 💰 You Can Help Me by Donating
 
 <p align="center">
   <strong>📲 UPI ID:</strong> <code>6203754145@ybl</code>  
   <br><br>
-  <img src="https://raw.githubusercontent.com/hiteshkrsharma/hiteshkrsharma/main/assets/upi_qr_2.png" alt="UPI QR" width="200" />
+  <img src="https://github.com/hiteshkrsharma/hiteshkrsharma/blob/main/upi_qr.jpg?raw=true" alt="UPI QR Code" width="250" style="border-radius: 15px; box-shadow: 0 0 20px #00ffee;" />
   <br><br>
-  <em>Works with PhonePe, Google Pay, Paytm, and any UPI app!</em>
+  <em>Scan the QR using PhonePe, Google Pay, Paytm, or any UPI app.</em>
 </p>
+
 
 
   
