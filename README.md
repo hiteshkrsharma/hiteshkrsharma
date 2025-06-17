@@ -65,12 +65,7 @@
 
   <br><br>
 
-  <!-- 🎉 Footer Banner with Motion -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Thanks%20for%20visiting!%20Let's%20build%20together%20🚀&fontAlign=50&fontColor=fff&colorGradient=true&animation=twinkling" 
-    alt="Footer Capsule" />
-
-</div>
+ 
 
 
 
