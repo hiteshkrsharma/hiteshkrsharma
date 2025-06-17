@@ -1,20 +1,81 @@
-## 👋 Hi, I'm Hitesh Krishan Sharma
+<!-- 🎯 Animated Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hitesh+Krishan+Sharma;💻+Tech+Lover+%7C+BCA+Graduate+%7C+Full+Stack+Learner;✨+Keep+Building+%7C+Keep+Growing!" alt="Typing SVG">
+</p>
 
-🎓 BCA Graduate from SJES College of Management Studies  
-💼 Working as a Computer Lab In-Charge  
-💻 Passionate about Web Development, Automation, and Tech Tools  
-🔧 Learning React.js, Node.js, and Full Stack Dev  
-🧠 I believe in lifelong learning and building smart solutions  
-📍 Based in Bangalore, India  
-🤝 Open to collaborations, freelance work, and tech discussions
+<!-- 👤 Your Profile Picture -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hiteshkrsharma/hiteshkrsharma/main/assets/hitesh-profile.png" width="200" style="border-radius: 50%; box-shadow: 0 0 25px #00ffee;" alt="Hitesh's Profile" />
+</p>
+
+<!-- 🧑‍💻 Profile Summary -->
+<h2 align="center">🚀 Who Am I?</h2>
+
+<p align="center">
+  🎓 <b>BCA Graduate</b> from <i>SJES College of Management Studies</i><br>
+  💼 <b>Computer Lab In-Charge</b><br>
+  💡 Passionate about <b>Web Development</b>, <b>Automation</b>, and <b>Tech Tools</b><br>
+  🧑‍💻 Currently learning <b>React.js</b>, <b>Node.js</b>, and <b>Full Stack Development</b><br>
+  🧠 I believe in <b>Lifelong Learning</b> and building <b>Smart Solutions</b><br>
+  📍 Based in <b>Bangalore, India</b><br>
+  🤝 Open to <b>Collaboration</b>, <b>Freelancing</b>, and <b>Tech Discussions</b>
+</p>
+
+<!-- 🔗 Social Buttons -->
+<p align="center">
+  <a href="https://github.com/hiteshkrsharma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR@EMAIL.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hiteshkrsharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiteshkrsharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hiteshkrishansharma@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+<!-- 💻 Tech Stack Starts Here -->
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+ 
+
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -24,20 +85,55 @@
 </div>
 
 
+## 🚀 <span style="font-family:'Fira Code', monospace; font-size: 28px;">GitHub Activity Dashboard</span>
+
+<div align="center">
+
+  <!-- 🧮 GitHub Stats (Radical Theme + Glow) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hiteshkrsharma&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" 
+    alt="GitHub Stats" 
+    style="margin: 10px; border-radius: 15px; filter: drop-shadow(0 0 10px #f72585);" />
+
+  <!-- 🔥 GitHub Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=hiteshkrsharma&theme=matrix&hide_border=false&ring=00ffe0&fire=ff007f&currStreakLabel=00ffe0" 
+    alt="GitHub Streak" 
+    style="margin: 10px; border-radius: 15px; filter: drop-shadow(0 0 10px #00ffe0);" />
+
+  <!-- 🎨 Language Usage Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkrsharma&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=false&card_width=450" 
+    alt="Top Languages" 
+    style="margin: 10px; border-radius: 15px; filter: drop-shadow(0 0 10px #89fc00);" />
+
+<!-- 🚀 Modern Waving Footer Banner -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=4facfe,00f2fe,43e97b,38f9d7&height=110&section=footer&text=🚀%20Code%20Hard%20|%20Build%20Smart%20|%20Stay%20Awesome!%20✨&fontAlign=50&fontColor=ffffff&fontSize=24" 
+  alt="GitHub Footer Banner" />
 
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hiteshkrsharma&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hiteshkrsharma&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkrsharma&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hiteshkrsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- 🏆 Animated Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FA3C64&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86%20GitHub%20Trophies;%F0%9F%94%A5%20Achievements%20Unleashed!;%E2%AD%90%20Keep%20Pushing%20Your%20Limits!" alt="Typing SVG">
+</p>
 
 
-### 🌐 GitHub Network Stats
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hiteshkrsharma&theme=discord&no-frame=false&no-bg=false&margin-w=15&title=MultiLanguage,Commit,Stars,Followers,Repositories,PullRequest,Issues" />
+</p>
+
+
+<!-- 🌐 GitHub Network Stats - Headline Style Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=🌐+GitHub+Network+Stats" alt="Animated Headline">
+</p>
+
+
 
 <div align="center" style="padding: 20px;">
 
