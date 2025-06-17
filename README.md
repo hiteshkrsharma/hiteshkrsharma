@@ -39,8 +39,29 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hiteshkrsharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-🔥%20My%20Top%20Repositories%20🔥-black?style=for-the-badge&logo=github&logoColor=white&color=FF6EC7">
+</h2>
+
+<div align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=hiteshkrsharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+    alt="Top Repo Contributions"
+    style="border-radius: 12px; box-shadow: 0 0 25px #ff6ec7; margin-top: 10px;"
+  />
+  <br><br>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=40&lines=👨‍💻+Built+with+Passion+and+Persistence;🧠+Learning.+Coding.+Improving.;🚀+From+BCA+to+Beyond!"
+    alt="Typing animation"
+  />
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=🚀%20Consistency%20is%20the%20real%20Flex%20👨‍💻&fontColor=ffffff&fontSize=22&animation=twinkling" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hiteshkrsharma&icon=0&color=0)](https://visitcount.itsvg.in)
