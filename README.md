@@ -37,11 +37,40 @@
 ![](https://github-profile-trophy.vercel.app/?username=hiteshkrsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 👀 Profile Visitors
+### 🌐 GitHub Network Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshkrsharma&label=Visitors&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center" style="padding: 20px;">
+
+  <!-- ✨ Profile Visitors Badge (Neon Glow Style) -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=hiteshkrsharma&label=👁️+Visitors&color=0affef&style=for-the-badge" 
+    alt="Profile Views" 
+    style="margin: 8px; filter: drop-shadow(0 0 5px #0affef);" />
+
+  <!-- 🙌 Followers Badge (Clickable, Glowing) -->
+  <a href="https://github.com/hiteshkrsharma?tab=followers" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🙌%20Followers-Join%20The%20Journey-blueviolet?style=for-the-badge&logo=github" 
+      alt="GitHub Followers"
+      style="margin: 8px; filter: drop-shadow(0 0 5px #9F6EFF);" />
+  </a>
+
+  <br><br>
+
+  <!-- 💻 Animated Typing Text (Motivational & Dev-centric) -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=700&center=true&vCenter=true&lines=🔥+Code.+Create.+Conquer.;💡+Keep+Learning%2C+Keep+Building.;🚀+Developer+By+Passion%2C+Problem+Solver+By+Choice.;🎯+Follow+For+More+Tech+Vibes!" 
+    alt="Typing Animation" 
+    style="margin-top: 20px;" />
+
+  <br><br>
+
+  <!-- 🎉 Footer Banner with Motion -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Thanks%20for%20visiting!%20Let's%20build%20together%20🚀&fontAlign=50&fontColor=fff&colorGradient=true&animation=twinkling" 
+    alt="Footer Capsule" />
+
+</div>
 
 
 
