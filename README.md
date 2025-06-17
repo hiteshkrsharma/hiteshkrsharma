@@ -36,8 +36,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hiteshkrsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiteshkrsharma&label=Visitors&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+
+
 
 ## 🔝 Top Contributed Repositories
 
