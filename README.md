@@ -1,39 +1,32 @@
-<!-- 🎯 Animated Heading -->
+<!-- 🎯 Animated Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hitesh+Krishan+Sharma;💻+Tech+Lover+%7C+BCA+Graduate+%7C+Full+Stack+Learner;✨+Keep+Building+%7C+Keep+Growing!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hitesh+Krishan+Sharma;💻+Tech+Lover+%7C+BCA+Graduate+%7C+Full+Stack+Learner;✨+Keep+Building+%7C+Keep+Growing!" alt="Typing SVG">
 </p>
 
-<!-- 👤 Your Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hiteshkrsharma/hiteshkrsharma/main/assets/hitesh-profile.png" width="200" style="border-radius: 50%; box-shadow: 0 0 25px #00ffee;" alt="Hitesh's Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&pause=1000&color=00FEEF&center=true&vCenter=true&width=900&lines=+Hitesh+Krishan+Sharma" alt="Typing SVG">
 </p>
 
-<!-- 🧑‍💻 Profile Summary -->
-<h2 align="center">🚀 Who Am I?</h2>
 
-<p align="center">
-  🎓 <b>BCA Graduate</b> from <i>SJES College of Management Studies</i><br>
-  💼 <b>Computer Lab In-Charge</b><br>
-  💡 Passionate about <b>Web Development</b>, <b>Automation</b>, and <b>Tech Tools</b><br>
-  🧑‍💻 Currently learning <b>React.js</b>, <b>Node.js</b>, and <b>Full Stack Development</b><br>
-  🧠 I believe in <b>Lifelong Learning</b> and building <b>Smart Solutions</b><br>
-  📍 Based in <b>Bangalore, India</b><br>
-  🤝 Open to <b>Collaboration</b>, <b>Freelancing</b>, and <b>Tech Discussions</b>
-</p>
 
-<!-- 🔗 Social Buttons -->
-<p align="center">
-  <a href="https://github.com/hiteshkrsharma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR@EMAIL.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
+
+
+
+<!-- 🧠 Profile Summary -->
+<table align="center" width="90%">
+  <tr>
+    <td align="center" style="font-size: 16px; font-family: 'Segoe UI', sans-serif; color: #e0f7fa; line-height: 1.8;">
+      <p>🎓 <strong style="color:#FFD700;">BCA Graduate</strong> from <i>SJES College of Management Studies</i></p>
+      <p>💼 <strong style="color:#90CAF9;">Computer Lab In-Charge</strong></p>
+      <p>🌐 Passionate about <strong style="color:#00E676;">Web Development</strong>, <strong>Automation</strong>, and <strong>Tech Tools</strong></p>
+      <p>🧠 Believer in <strong style="color:#FF8A65;">Lifelong Learning</strong> & Crafting <strong>Smart Solutions</strong></p>
+      <p>🌱 Currently exploring <strong style="color:#80D8FF;">React.js</strong>, <strong>Node.js</strong>, and <strong>Full Stack Development</strong></p>
+      <p>📍 Based in <strong style="color:#FF5252;">Bangalore, India</strong></p>
+      <p>🤝 Open for <strong style="color:#BA68C8;">Collaboration</strong>, <strong>Freelance Work</strong>, and <strong>Tech Talks</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 
