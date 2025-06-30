@@ -96,3 +96,48 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4facfe,00f2fe,43e97b,38f9d7&height=100&section=footer&text=Keep+Coding+%7C+Keep+Growing+🚀&fontColor=ffffff&fontSize=22" />
 </p>
+
+
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+  <!-- Weather Forecast App -->
+  <a href="https://github.com/hiteshkrsharma/Weather-Forcast-APP" target="_blank">
+    <img width="350" alt="Weather App" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkrsharma&repo=Weather-Forcast-APP&theme=radical" />
+  </a>
+
+  <!-- FileBee - File Transfer Web App -->
+  <a href="https://github.com/hiteshkrsharma/FILE-BEE" target="_blank">
+    <img width="350" alt="FileBee" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkrsharma&repo=FILE-BEE&theme=radical" />
+  </a>
+
+  <!-- SkyVault - Cloud Storage Web App -->
+  <a href="https://github.com/hiteshkrsharma/Sky-vault" target="_blank">
+    <img width="350" alt="SkyVault" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkrsharma&repo=Sky-vault&theme=radical" />
+  </a>
+
+  <!-- Snake Game -->
+  <a href="https://github.com/hiteshkrsharma/snake-game" target="_blank">
+    <img width="350" alt="Snake Game" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkrsharma&repo=snake-game&theme=radical" />
+  </a>
+
+  <!-- SyncSphere (Forked) -->
+  <a href="https://github.com/hiteshkrsharma/SYNCSPHERE" target="_blank">
+    <img width="350" alt="SyncSphere" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkrsharma&repo=SYNCSPHERE&theme=radical" />
+  </a>
+
+</p>
+
+
+
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkrsharma&theme=tokyo-night&area=true&hide_border=true" 
+    width="95%" 
+    alt="GitHub Contribution Graph" />
+</p>
